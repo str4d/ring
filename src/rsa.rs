@@ -30,7 +30,7 @@ mod padding;
 // `RSA_PKCS1_SHA1` is intentionally not exposed.
 pub use self::padding::{
     Encoding, RSA_PKCS1_SHA256, RSA_PKCS1_SHA384, RSA_PKCS1_SHA512, RSA_PSS_SHA256, RSA_PSS_SHA384,
-    RSA_PSS_SHA512,
+    RSA_PSS_SHA512, RSA_PKCS1_SHA256_RAW, RSA_PKCS1_SHA384_RAW, RSA_PKCS1_SHA512_RAW,
 };
 
 // Maximum RSA modulus size supported for signature verification (in bytes).
