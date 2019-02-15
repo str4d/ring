@@ -8,8 +8,8 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 
 
-*ring*
-======
+*ring* (with I2P extensions)
+============================
 
 *ring* is focused on the implementation, testing, and optimization of a core
 set of cryptographic operations exposed via an easy-to-use (and hard-to-misuse)
